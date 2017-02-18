@@ -1,0 +1,205 @@
+html,body{
+	margin:0;
+	padding: 0;
+}
+.headU{
+	width: 100%;
+	height: 60px;
+    background: #102E36;
+    margin-bottom: 2px;
+}
+.headM{
+	width: 100%;
+	height: 360px;
+    background: #102E36;
+}
+.headD{
+	width: 100%;
+	height: 260px;
+    background: #FCB700;
+    box-shadow: 10px 10px 10px #DCDCDC;
+}
+.clearfix{
+	clear:both;
+}
+.float{
+display: inline-block;
+}
+.width-960{
+	width: 960px;
+	margin: 0 auto;
+}
+.portfolioLogo{
+	/*width:60px;*/
+	text-align: center;
+margin: 10px auto;
+}
+.portfolioLogo img{
+	width: 50px;
+	/*background: blue;
+	border-radius:100%;*/
+}
+.picRow{
+	padding: 90px;
+	text-align: center;
+}
+.picture{
+	width: 32%;
+	height: 60px;
+	background: blue;
+}
+.width-961{
+	width: 960px;
+	margin: 0 auto;
+}
+.perhabs{
+	background: #FCB700;
+	margin: 0 auto;
+	 height: 260px;;
+}
+.meetTeam{
+	background: #242015;
+}
+.rigt{
+	float:right;
+}
+.rigt ul li{
+	float: left;
+}
+.width-962{
+	width: 960px;
+/*	background: #102E36;
+*/	margin: 0 auto;
+}
+.wid {
+	padding:  30px;
+}
+input {
+    margin: 0 auto;
+}
+.orta
+	{
+  margin-top: 0px;
+  margin-right: 350px;
+  margin-bottom: 0px;
+  margin-left: 350px;
+}
+.socialLogo{
+	text-align: center;
+
+}
+.social{
+	background: #102E36;
+	width:40px;
+	height: 60px;
+	margin: 10px auto;
+}
+img{
+	width: 100%;
+}
+.pictureS{
+	width: 24%;
+	height: 60px;
+	background: blue;
+}
+button {
+    background-color: #FCB700 ;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.content{
+	background: #ECECEC;
+}
+.services{
+		background: #ECECEC;
+}
+.ourBlog{
+		background: #ECECEC;
+}
+.perhabs {
+    box-shadow: 10px 10px 10px #DCDCDC;
+}
+.content{
+
+	box-shadow: 10px 10px 10px #DCDCDC;
+}
+.portfolioLogo img{
+	margin-top:  40px;
+}
+.headD h1{
+
+	margin : 0;
+	text-align: center;
+  	color:white;
+}
+.yazi{
+	padding: 60px;
+}
+.perhabs{
+	margin : 0;
+}
+.awagiB {
+    text-align: center;
+    
+}
+
+.workers{
+	
+	background: #242015;
+	width:100px;
+	margin: 10px 20px;
+}
+.socialLogo div img{
+
+	border-radius: 100%;
+}
+.socialLogo div{
+	border-radius: 50%;
+}
+.workers h3{
+	
+font color: white;
+}
+.workers h3{
+	
+margin: 0;
+padding: 0;
+}
+.awagiB button{
+	margin-bottom:50px; 
+}
+.yazii p{
+	margin: 100px;
+	color: white;
+}
+.input{
+	text-align: center;
+	margin-top: 10px;
+}
+.textare{
+	text-align: center;
+	margin-top: 5px;
+}
+.awagiA button{
+	margin-left: 120px;
+}
+.footer{
+	width: 100%;
+	height: 70px;
+background: grey;
+}
+
+.wid h1 {
+color:white;
+}
+.wid1{
+	color: white;
+}
+.orta p{
+	color: white;
+}
